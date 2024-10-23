@@ -1,7 +1,10 @@
 # Apache Tomcat, IntelliJ Community Edition, and Maven Dependency Setup
 
 This guide provides the necessary links to download Apache Tomcat 9 and IntelliJ IDEA Community Edition, along with the Maven dependency required for `javax.servlet-api`.
-
+## 📥 Link to Youtube Video to follow the setup Instruction
+ 
+  [SETUP Servlet-JSP Project in IntelliJ Community Edition in 10 MINUTES!](https://youtu.be/dTo8gFu90jI)
+- 
 ## 📥 Downloads
 
 - **Apache Tomcat 9**:  
